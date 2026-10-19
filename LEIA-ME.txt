@@ -1,0 +1,18 @@
+SITE QUALIVIDA — PRONTO PARA VERCEL
+
+Este é um site estático: sem banco de dados, sem login e sem configurações especiais.
+
+PARA PUBLICAR NA VERCEL:
+1. Crie um repositório GitHub, por exemplo: qualivida-programas.
+2. Envie TODOS os arquivos da pasta Qualivida_Site_Vercel para a RAIZ do repositório.
+   Atenção: deve existir index.html na raiz, junto à pasta assets.
+3. Em vercel.com > Add New > Project > Import Git Repository, escolha esse repositório.
+4. Framework Preset: Other. Root Directory: ./ (raiz). Sem build command.
+5. Clique Deploy. Aguarde o endereço HTTPS do site.
+6. Somente DEPOIS de publicar, crie um QR Code principal com o endereço exato da Vercel.
+
+O endereço para o WhatsApp da Central Qualivida foi extraído dos QR Codes presentes nos seis PDFs originais. Os seis levam para o mesmo destino.
+
+IMPORTANTE: QR Codes existentes nas imagens já funcionam. Os botões “Falar com a Central” usam o mesmo endereço. Teste a página e o WhatsApp antes de colocar o QR principal em cartazes.
+
+Para atualizar um programa: substitua o arquivo correspondente em assets, mantendo o mesmo nome e formato.
